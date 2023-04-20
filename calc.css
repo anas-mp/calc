@@ -1,0 +1,59 @@
+.calc-body
+{
+    width: 440px;
+    height: 600px;
+    background: purple;
+    margin-left: 550px;
+    margin-top: 80px;
+    
+}
+#screen
+{
+    width: 400px;
+    height: 50px;
+    margin-left: 20px;
+    border-radius: 5px;
+    border: none;
+   
+}  
+.name
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 25px;
+    margin-left: 190px;
+
+
+}
+.calc-name
+{
+    padding-top: 1px;
+}
+.calc-screen
+{
+    margin-top: -13px;
+}
+.row1
+{
+    margin-top: 30px;
+
+
+}.button
+{
+    height: 50px;
+    width: 60px;
+    margin-left: 40px;
+    margin-top: 30px;
+
+}
+.clear-button
+{
+    height: 50px;
+    width: 60px;
+    margin-left: 40px;
+    margin-top: 40px;
+    background: red;
+    border: none
+    ;
+
+}
